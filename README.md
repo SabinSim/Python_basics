@@ -23,9 +23,9 @@ I believe in learning by doing. My approach is centered on:
 
 ## 📅 Python Fundamentals Curriculum Progress
 
-| Day | Topic Area | Subject |
-| :--- | :--- | :--- |
-| 1 | **Python Basics** | Setup Development Environment (VS Code, Python run, print, type) |
+| Day | Topic Area | Subject | Link |
+| :--- | :--- | :--- | :--- |
+| 1 | **Python Basics** | Setup Development Environment (VS Code, Python run, print, type) | [Day 1](day_1/day_1_notes.md)|
 | 2 | **Python Basics** | Variables and Data Types (int, float, str, bool) |
 | 3 | **Python Basics** | Operators (Arithmetic, Comparison, Logical) |
 | 4| **Python Basics** | Input/Output (input, print, f-string) |
