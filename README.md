@@ -26,7 +26,7 @@ I believe in learning by doing. My approach is centered on:
 | Day | Topic Area | Subject | Link |
 | :--- | :--- | :--- | :--- |
 | 1 | **Python Basics** | Setup Development Environment (VS Code, Python run, print, type) | [Day 1](day_1/day_1_notes.md)|
-| 2 | **Python Basics** | Variables and Data Types (int, float, str, bool) |
+| 2 | **Python Basics** | Variables and Data Types (int, float, str, bool) | [Day 2](day_2/day_2_notes.md)|
 | 3 | **Python Basics** | Operators (Arithmetic, Comparison, Logical) |
 | 4| **Python Basics** | Input/Output (input, print, f-string) |
 | 5 | **Control Flow** | Conditionals (if/elif/else) |
