@@ -179,4 +179,3 @@ You have learned how to:
 * Apply nested conditions for complex decisions
 * Build a working **Smart Evaluator** program
 
-In the next lesson, you’ll learn how to **repeat actions automatically** using loops (`for`, `while`) — the foundation of all automation and data processing tasks.
