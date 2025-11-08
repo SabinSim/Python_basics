@@ -30,7 +30,7 @@ I believe in learning by doing. My approach is centered on:
 | 3 | **Python Basics** | Operators (Arithmetic, Comparison, Logical) | [Day 3](day_3/day_3_notes.md)|
 | 4| **Python Basics** | Input/Output (input, print, f-string) | [Day 4](day_4/day_4_notes.md)|
 | 5 | **Control Flow** | Conditionals (if/elif/else) | [Day 5](day_5/day_5_notes.md)|
-| 6 | **Control Flow** | Loops (for / range) |
+| 6 | **Control Flow** | Loops (for / range) | [Day 6](day_6/day_6_notes.md)|
 | 7 | **Control Flow** | While Loop + Mini Project (Multiplication Table, Sum Calculator) |
 | 8 | **Data Structures** | Working with Lists |
 | 9 | **Data Structures** | Working with Strings |
