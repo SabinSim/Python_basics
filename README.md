@@ -31,7 +31,7 @@ I believe in learning by doing. My approach is centered on:
 | 4| **Python Basics** | Input/Output (input, print, f-string) | [Day 4](day_4/day_4_notes.md)|
 | 5 | **Control Flow** | Conditionals (if/elif/else) | [Day 5](day_5/day_5_notes.md)|
 | 6 | **Control Flow** | Loops (for / range) | [Day 6](day_6/day_6_notes.md)|
-| 7 | **Control Flow** | While Loop + Mini Project (Multiplication Table, Sum Calculator) |
+| 7 | **Control Flow** | While Loop + Mini Project (Multiplication Table, Sum Calculator) | [Day 7](day_6/day_7_notes.md)|
 | 8 | **Data Structures** | Working with Lists |
 | 9 | **Data Structures** | Working with Strings |
 | 10 | **Data Structures** | Working with Dictionaries |
