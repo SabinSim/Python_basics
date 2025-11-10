@@ -25,16 +25,16 @@ I believe in learning by doing. My approach is centered on:
 day_8_notes.md
 | Day | Topic Area | Subject | Link |
 | :--- | :--- | :--- | :--- |
-| 1 | **Python Basics** | Setup Development Environment (VS Code, Python run, print, type) | [Day 1](day_1/day_1_notes.md)|
-| 2 | **Python Basics** | Variables and Data Types (int, float, str, bool) | [Day 2](day_2/day_2_notes.md)|
-| 3 | **Python Basics** | Operators (Arithmetic, Comparison, Logical) | [Day 3](day_3/day_3_notes.md)|
-| 4| **Python Basics** | Input/Output (input, print, f-string) | [Day 4](day_4/day_4_notes.md)|
-| 5 | **Control Flow** | Conditionals (if/elif/else) | [Day 5](day_5/day_5_notes.md)|
-| 6 | **Control Flow** | Loops (for / range) | [Day 6](day_6/day_6_notes.md)|
-| 7 | **Control Flow** | While Loop + Mini Project (Multiplication Table, Sum Calculator) | [Day 7](day_7/day_7_notes.md)|
-| 8 | **Data Structures** | Working with Lists | [Day 8](day_8/day_8_notes.md)|
-| 9 | **Data Structures** | Working with Strings |
-| 10 | **Data Structures** | Working with Dictionaries |
+| 1 | **Python Basics** | Setup Development Environment (VS Code, Python run, print, type) | [Day 1](day_01/day_01_notes.md)|
+| 2 | **Python Basics** | Variables and Data Types (int, float, str, bool) | [Day 2](day_02/day_02_notes.md)|
+| 3 | **Python Basics** | Operators (Arithmetic, Comparison, Logical) | [Day 3](day_03/day_03_notes.md)|
+| 4| **Python Basics** | Input/Output (input, print, f-string) | [Day 4](day_04/day_04_notes.md)|
+| 5 | **Control Flow** | Conditionals (if/elif/else) | [Day 5](day_05/day_05_notes.md)|
+| 6 | **Control Flow** | Loops (for / range) | [Day 6](day_06/day_06_notes.md)|
+| 7 | **Control Flow** | While Loop + Mini Project (Multiplication Table, Sum Calculator) | [Day 7](day_07/day_07_notes.md)|
+| 8 | **Data Structures** | Working with Lists | [Day 8](day_08/day_08_notes.md)|
+| 9 | **Data Structures** | Working with Strings | [Day 9](day_09/day_09_notes.md)|
+| 10 | **Data Structures** | Working with Dictionaries | [Day 10](day_10/day_10_notes.md)|
 | 11 | **Data Structures** | Tuples & Sets |
 | 12 | **File Handling** | File Input/Output |
 | 13 | **File Handling** | Working with JSON |
