@@ -1,7 +1,7 @@
 ## **Day 8 – Lists**
 
 **Project:** Build a “Simple Data Manager” using Lists
-
+ 
 ---
 
 **01. Learning Goal**
