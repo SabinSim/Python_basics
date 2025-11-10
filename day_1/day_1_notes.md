@@ -1,6 +1,6 @@
 Markdown
 
-# 🐍 Day 1 – Python Setup & Basic Functions (`print`, `type`)
+# Day 1 – Python Setup & Basic Functions (`print`, `type`)
 
 ## Project: Build Your First “Python Greeting App”
 
