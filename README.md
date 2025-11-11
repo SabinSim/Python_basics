@@ -35,8 +35,8 @@ day_8_notes.md
 | 8 | **Data Structures** | Working with Lists | [Day 8](day_08/day_08_notes.md)|
 | 9 | **Data Structures** | Working with Strings | [Day 9](day_09/day_09_notes.md)|
 | 10 | **Data Structures** | Working with Dictionaries | [Day 10](day_10/day_10_notes.md)|
-| 11 | **Data Structures** | Tuples & Sets |
-| 12 | **File Handling** | File Input/Output |
+| 11 | **Data Structures** | Tuples & Sets | [Day 11](day_11/day_11_notes.md)|
+| 12 | **File Handling** | File Input/Output | [Day 12](day_12/day_12_notes.md)|
 | 13 | **File Handling** | Working with JSON |
 | 14 | **File Handling** | Exception Handling (try / except) |
 | 15 | **Functions** | Functions Basics (def, return, parameters) |
