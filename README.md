@@ -37,8 +37,8 @@ day_8_notes.md
 | 10 | **Data Structures** | Working with Dictionaries | [Day 10](day_10/day_10_notes.md)|
 | 11 | **Data Structures** | Tuples & Sets | [Day 11](day_11/day_11_notes.md)|
 | 12 | **File Handling** | File Input/Output | [Day 12](day_12/day_12_notes.md)|
-| 13 | **File Handling** | Working with JSON |
-| 14 | **File Handling** | Exception Handling (try / except) |
+| 13 | **File Handling** | Working with JSON | [Day 13](day_13/day_13_notes.md)|
+| 14 | **File Handling** | Exception Handling (try / except) | [Day 14](day_14/day_14_notes.md)|
 | 15 | **Functions** | Functions Basics (def, return, parameters) |
 | 16 | **Functions** | Advanced Functions (defaults, *args, **kwargs) |
 | 17 | **Functions** | Local vs Global Variables, Scope |
