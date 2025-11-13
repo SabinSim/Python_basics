@@ -39,8 +39,8 @@ day_8_notes.md
 | 12 | **File Handling** | File Input/Output | [Day 12](day_12/day_12_notes.md)|
 | 13 | **File Handling** | Working with JSON | [Day 13](day_13/day_13_notes.md)|
 | 14 | **File Handling** | Exception Handling (try / except) | [Day 14](day_14/day_14_notes.md)|
-| 15 | **Functions** | Functions Basics (def, return, parameters) |
-| 16 | **Functions** | Advanced Functions (defaults, *args, **kwargs) |
+| 15 | **Functions** | Functions Basics (def, return, parameters) | [Day 15](day_15/day_15_notes.md)|
+| 16 | **Functions** | Advanced Functions (defaults, *args, **kwargs) | [Day 16](day_16/day_16_notes.md)|
 | 17 | **Functions** | Local vs Global Variables, Scope |
 | 18 | **Functions** | Lambda Functions |
 | 19 | **Modules** | Modules & Packages (import, from, **main**) |
