@@ -8,7 +8,7 @@ This repository documents my structured learning path through **Python Fundament
 
 I believe in learning by doing. My approach is centered on:
 
-1.  **Problem First (문제 인식 우선):** Before writing code, I identify a real-world problem or a conceptual challenge that requires the specific topic (e.g., using `for` loops to solve a repetition need).
+1.  **Problem First :** Before writing code, I identify a real-world problem or a conceptual challenge that requires the specific topic (e.g., using `for` loops to solve a repetition need).
 2.  **Coding as Study:** All learning materials are translated into functional code solutions, allowing me to fully grasp the 'why' and 'how' through active coding.
 3.  **Open Documentation:** Progress notes, conceptual explanations, and detailed breakdowns are shared externally on my DEV Blog (see link below) to solidify understanding.
 
