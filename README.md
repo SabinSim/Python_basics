@@ -41,8 +41,8 @@ day_8_notes.md
 | 14 | **File Handling** | Exception Handling (try / except) | [Day 14](day_14/day_14_notes.md)|
 | 15 | **Functions** | Functions Basics (def, return, parameters) | [Day 15](day_15/day_15_notes.md)|
 | 16 | **Functions** | Advanced Functions (defaults, *args, **kwargs) | [Day 16](day_16/day_16_notes.md)|
-| 17 | **Functions** | Local vs Global Variables, Scope |
-| 18 | **Functions** | Lambda Functions |
+| 17 | **Functions** | Local vs Global Variables, Scope | [Day 17](day_17/day_17_notes.md)|
+| 18 | **Functions** | Lambda Functions | [Day 18](day_18/day_18_notes.md)|
 | 19 | **Modules** | Modules & Packages (import, from, **main**) |
 | 20 | **Modules** | Using Standard Libraries (math, random, datetime) |
 | 21 | **Modules** | Installing External Libraries (pip, requests) |
