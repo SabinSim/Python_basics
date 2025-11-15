@@ -43,8 +43,8 @@ day_8_notes.md
 | 16 | **Functions** | Advanced Functions (defaults, *args, **kwargs) | [Day 16](day_16/day_16_notes.md)|
 | 17 | **Functions** | Local vs Global Variables, Scope | [Day 17](day_17/day_17_notes.md)|
 | 18 | **Functions** | Lambda Functions | [Day 18](day_18/day_18_notes.md)|
-| 19 | **Modules** | Modules & Packages (import, from, **main**) |
-| 20 | **Modules** | Using Standard Libraries (math, random, datetime) |
+| 19 | **Modules** | Modules & Packages (import, from, **main**) | [Day 19](day_19/day_19_notes.md)|
+| 20 | **Modules** | Using Standard Libraries (math, random, datetime) | [Day 20](day_20/day_20_notes.md)|
 | 21 | **Modules** | Installing External Libraries (pip, requests) |
 | 22 | **OOP** | Classes and Objects (class, **init__) |
 | 23 | **OOP** | Attributes and Methods (self, instance variables) |
