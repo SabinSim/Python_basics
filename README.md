@@ -45,8 +45,8 @@ day_8_notes.md
 | 18 | **Functions** | Lambda Functions | [Day 18](day_18/day_18_notes.md)|
 | 19 | **Modules** | Modules & Packages (import, from, **main**) | [Day 19](day_19/day_19_notes.md)|
 | 20 | **Modules** | Using Standard Libraries (math, random, datetime) | [Day 20](day_20/day_20_notes.md)|
-| 21 | **Modules** | Installing External Libraries (pip, requests) |
-| 22 | **OOP** | Classes and Objects (class, **init__) |
+| 21 | **Modules** | Installing External Libraries (pip, requests) | [Day 21](day_21/day_21_notes.md)|
+| 22 | **OOP** | Classes and Objects (class, **init__) | [Day 22](day_22/day_22_notes.md)|
 | 23 | **OOP** | Attributes and Methods (self, instance variables) |
 | 23 | **OOP** | Inheritance |
 | 24 | **OOP** | Method Overriding, super() |
